@@ -1,6 +1,8 @@
 # Car Race
 
-**Challenge:** Fill `lib` with code to build a car race.
+###Challenge
+
+Build out code in the `lib` directory that simulates a car race!
 
 ###Steps
 
